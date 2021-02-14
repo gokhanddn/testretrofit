@@ -1,0 +1,3 @@
+include ':apimodule'
+include ':app'
+rootProject.name = "TestRetrofit"
